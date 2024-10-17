@@ -14,7 +14,7 @@ This is a Django-based project that replicates some of the core functionalities 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/instagram-clone.git
+    git clone https://github.com/Nelzio/instagram-clone.git
     cd instagram-clone
     ```
 
