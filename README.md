@@ -68,10 +68,6 @@ This is a Django-based project that replicates some of the core functionalities 
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please contact [nelziositoe@gmail.com](mailto:nelziositoe@gmail.com).
