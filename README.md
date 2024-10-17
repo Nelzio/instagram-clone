@@ -18,8 +18,7 @@ This is a Django-based project that replicates some of the core functionalities 
     cd instagram-clone
     ```
 
-```markdown
-1. Create a virtual environment and activate it:
+2. Create a virtual environment and activate it:
 
     - On Windows (CMD):
         ```cmd
@@ -38,7 +37,6 @@ This is a Django-based project that replicates some of the core functionalities 
         python3 -m venv venv
         source venv/bin/activate
         ```
-```
 
 1. Install the required packages:
     ```bash
